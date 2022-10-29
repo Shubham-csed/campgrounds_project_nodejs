@@ -1,0 +1,6 @@
+Open GroomIDE
+Need two terminals run below two commands
+Terimal1- mongod
+Terimal2- node app.js
+Follow: Project->Running URL & Port-> click on link- https://mongo-trial-latai.run-ap-south1.goorm.io
+Project UI starts
